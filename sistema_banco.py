@@ -17,7 +17,7 @@ numero_saques = 0
 LIMITE_SAQUES = 3
 
 mensagem_erro_deposito = "Operação Falhou! O valor informado é inválido."
-mensagem_erro_saldo = "Operação falhou! Você não tem saldo suficiente"
+mensagem_erro_saldo = "Operação falhou! Você não tem saldo suficiente ainda."
 mensagem_erro_limite = "Operação falhou! O valor do saque excedeu o limite"
 mensagem_erro_saque = "Operação falhou! Número máximo de saques excedido."
 mensagem_erro_opcao = "Operação inválida, por favor selecione novamenate a operação desejada"
